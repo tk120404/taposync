@@ -4,7 +4,6 @@
 
 No subscriptions. No cloud. No Philips Hue tax. Just your laptop webcam, a Python script, and lights that actually follow your screen.
 
-![demo](https://github.com/user-attachments/assets/placeholder)
 
 ---
 
