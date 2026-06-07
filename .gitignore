@@ -1,0 +1,6 @@
+.env
+.tapo_crop
+__pycache__/
+*.pyc
+.venv/
+=*
